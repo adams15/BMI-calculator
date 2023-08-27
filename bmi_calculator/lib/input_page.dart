@@ -12,7 +12,7 @@ enum Gender{
   male,
   female,
 }
-int height = 180;
+int height = 185;
 int weight = 60;
 int age = 30;
 
